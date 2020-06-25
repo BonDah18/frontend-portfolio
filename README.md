@@ -1,2 +1,2 @@
 # frontend-portfolio
-frontend projects
+All the frontend projects I have are in this repository
